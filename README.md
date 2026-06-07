@@ -38,8 +38,8 @@ Diseño la arquitectura y tomo cada decisión de fondo.
 </td>
 <td width="33%" align="center">
 
-**Ganador TINKU 2026**
-Entrego productos pulidos bajo presión, en tiempo récord.
+**Tech para el bien**
+scout.org.co, JamCam 2025, plataformas electorales. Infraestructura para comunidades reales.
 
 </td>
 </tr>
@@ -130,10 +130,6 @@ Plataforma multi-jugador de Texas Hold'em. Trustless. Real-time. Sin tutoriales 
 
 <img src="https://streak-stats.demolab.com?user=MrxHuaang&theme=dark&background=0d1117&border=30363d&ring=ffffff&fire=ffffff&currStreakLabel=888888&sideLabels=888888&dates=555555&sideNums=ffffff&currStreakNum=ffffff"/>
 
-<br/><br/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MrxHuaang&theme=onestar&no-frame=true&row=1&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 <br/><br/>
@@ -144,18 +140,12 @@ Plataforma multi-jugador de Texas Hold'em. Trustless. Real-time. Sin tutoriales 
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/@juan.ordonezz-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/juan.ordonezz)
+[![Hyvento](https://img.shields.io/badge/hyvento.co-111111?style=for-the-badge&logo=safari&logoColor=white)](https://hyvento.co)
 &nbsp;
-[![Email](https://img.shields.io/badge/web.admin@scout.org.co-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:web.admin@scout.org.co)
+[![Instagram](https://img.shields.io/badge/@juan.ordonezz-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/juan.ordonezz)
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:0a0a0a&height=2&section=footer" width="100%"/>
-
-<br/>
-
-<sub>Construyendo cosas que importan, un commit a la vez.</sub>
-
-<br/><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:0d0d0d,100:000000&height=100&section=footer&text=Construyendo+cosas+que+importan.&fontSize=14&fontColor=333333&fontAlignY=65" width="100%"/>
 
 </div>
