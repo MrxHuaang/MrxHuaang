@@ -38,8 +38,8 @@ Diseño la arquitectura y tomo cada decisión de fondo.
 </td>
 <td width="33%" align="center">
 
-**Tech para el bien**
-scout.org.co, JamCam 2025, plataformas electorales. Infraestructura para comunidades reales.
+**Ing. de Software**
+Estudiante que construye cosas reales mientras estudia. No espero graduarme para empezar.
 
 </td>
 </tr>
@@ -146,6 +146,6 @@ Plataforma multi-jugador de Texas Hold'em. Trustless. Real-time. Sin tutoriales 
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:0d0d0d,100:000000&height=100&section=footer&text=Construyendo+cosas+que+importan.&fontSize=14&fontColor=333333&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:0d0d0d,100:000000&height=120&section=footer&text=Estudiante+que+ya+est%C3%A1+construyendo.&fontSize=16&fontColor=aaaaaa&fontAlignY=70" width="100%"/>
 
 </div>
