@@ -28,15 +28,19 @@
 
 **Product / UI**
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,astro,tailwind,figma&theme=dark&perline=5" alt="Next.js, React, Astro, Tailwind CSS, Figma" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,angular,astro,vite,tailwind,figma&theme=dark&perline=7" alt="Next.js, React, Angular, Astro, Vite, Tailwind CSS, Figma" />
 
 **Runtime**
 
-<img src="https://skillicons.dev/icons?i=ts,js,go,rust&theme=dark&perline=4" alt="TypeScript, JavaScript, Go, Rust" />
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,go,rust,python,kotlin&theme=dark&perline=7" alt="TypeScript, JavaScript, Node.js, Go, Rust, Python, Kotlin" />
 
-**Data / Infra**
+**Backend / Data / Infra**
 
-<img src="https://skillicons.dev/icons?i=firebase,supabase,postgres,docker,vercel,git,github&theme=dark&perline=7" alt="Firebase, Supabase, PostgreSQL, Docker, Vercel, Git, GitHub" />
+<img src="https://skillicons.dev/icons?i=express,mongodb,mysql,firebase,supabase,postgres,docker,vercel,git,github&theme=dark&perline=10" alt="Express, MongoDB, MySQL, Firebase, Supabase, PostgreSQL, Docker, Vercel, Git, GitHub" />
+
+**Mobile**
+
+<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,firebase&theme=dark&perline=3" alt="Android Studio, Kotlin, Firebase" />
 
 `WebSockets` &nbsp; `WebRTC` &nbsp; `WebAssembly` &nbsp; `SEO/GEO` &nbsp; `server-authoritative loops`
 
