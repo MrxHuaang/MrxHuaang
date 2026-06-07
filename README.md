@@ -28,19 +28,15 @@
 
 **Product / UI**
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,angular,astro,vite,tailwind,figma&theme=dark&perline=7" alt="Next.js, React, Angular, Astro, Vite, Tailwind CSS, Figma" />
+<img src="https://skillicons.dev/icons?i=nextjs,react,angular,tailwind,figma&theme=dark&perline=5" alt="Next.js, React, Angular, Tailwind CSS, Figma" />
 
 **Runtime**
 
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,go,rust,python,kotlin&theme=dark&perline=7" alt="TypeScript, JavaScript, Node.js, Go, Rust, Python, Kotlin" />
+<img src="https://skillicons.dev/icons?i=ts,nodejs,go,rust,python&theme=dark&perline=5" alt="TypeScript, Node.js, Go, Rust, Python" />
 
 **Backend / Data / Infra**
 
-<img src="https://skillicons.dev/icons?i=express,mongodb,mysql,firebase,supabase,postgres,docker,vercel,git,github&theme=dark&perline=10" alt="Express, MongoDB, MySQL, Firebase, Supabase, PostgreSQL, Docker, Vercel, Git, GitHub" />
-
-**Mobile**
-
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin,firebase&theme=dark&perline=3" alt="Android Studio, Kotlin, Firebase" />
+<img src="https://skillicons.dev/icons?i=express,mongodb,firebase,supabase,postgres,docker,vercel&theme=dark&perline=7" alt="Express, MongoDB, Firebase, Supabase, PostgreSQL, Docker, Vercel" />
 
 `WebSockets` &nbsp; `WebRTC` &nbsp; `WebAssembly` &nbsp; `SEO/GEO` &nbsp; `server-authoritative loops`
 
