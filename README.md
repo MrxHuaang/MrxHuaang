@@ -1,97 +1,116 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1c1c1c&height=220&section=header&text=Juan%20Ordo%C3%B1ez&fontSize=64&fontColor=ffffff&fontAlignY=42&desc=Software%20Engineer%20%E2%80%94%20Colombia&descColor=555555&descSize=19&descAlignY=63" width="100%"/>
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=52&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=700&height=72&lines=Juan+Ordo%C3%B1ez" alt="Juan Ordoñez"/>
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=16&duration=3000&pause=1500&color=666666&center=true&vCenter=true&width=700&height=28&lines=CTO+%40+Hyvento+%E2%80%94+Software+Engineer+%E2%80%94+Colombia;Full-stack+%7C+Systems+%7C+Real-time;Next.js+%E2%80%94+Go+%E2%80%94+Rust%2FWASM+%E2%80%94+WebRTC" alt="subtitle"/>
+
+<br/><br/>
+
 <img src="https://komarev.com/ghpvc/?username=MrxHuaang&color=ffffff&style=flat-square&label=Visitas"/>
-&nbsp;
-<a href="https://github.com/MrxHuaang?tab=followers">
-  <img src="https://img.shields.io/github/followers/MrxHuaang?style=flat-square&color=ffffff&labelColor=1a1a1a&label=Seguidores"/>
-</a>
+&nbsp;&nbsp;
+<a href="https://github.com/MrxHuaang?tab=followers"><img src="https://img.shields.io/github/followers/MrxHuaang?style=flat-square&color=ffffff&labelColor=111111&label=Seguidores"/></a>
+
+<br/><br/><br/>
+
+</div>
+
+---
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="33%" align="center">
+
+**Sistemas end-to-end**
+Desde el píxel hasta el servidor autoritativo. Sin atajos.
+
+</td>
+<td width="33%" align="center">
+
+**CTO @ Hyvento**
+Diseño la arquitectura y tomo cada decisión de fondo.
+
+</td>
+<td width="33%" align="center">
+
+**Ganador TINKU 2026**
+Entrego productos pulidos bajo presión, en tiempo récord.
+
+</td>
+</tr>
+</table>
+
+<br/><br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## Tecnologías
+
+<img src="https://skillicons.dev/icons?i=ts,js,go,rust,nextjs,react,astro,tailwind&theme=dark&perline=8"/>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=firebase,supabase,postgres,docker,vercel,figma,git,github&theme=dark&perline=8"/>
+
+<br/><br/>
+
+`WebSockets` &nbsp; `WebRTC` &nbsp; `WebAssembly` &nbsp; `SEO/GEO`
 
 </div>
 
 <br/><br/>
 
-Construyo productos de extremo a extremo — desde interfaces pixel-perfect hasta servidores de juego en Go y motores compilados en Rust/WASM.
-
-<br/>
-
-**Full-stack con profundidad en sistemas.**&emsp;Next.js en el cliente, Go en el servidor, Rust cuando necesito velocidad de verdad.
-
-**Detalle en todo.**&emsp;Me importa tanto cómo se ve como cómo funciona bajo carga real.
-
-**Builder de impacto.**&emsp;Infraestructura digital para organizaciones sociales y comunidades reales en Colombia.
-
-**Ganador — TINKU Hackathon 2026.**&emsp;Entrego cosas pulidas bajo presión.
-
-<br/><br/>
-
 ---
 
 <br/>
 
-## Stack
+## Proyecto destacado
 
-**Lenguajes**
+<table>
+<tr>
+<td>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-0a0a0a?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-0a0a0a?style=flat-square&logo=rust&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=white)
+### Noir — Poker Platform
 
-**Frontend**
+Plataforma multi-jugador de Texas Hold'em. Trustless. Real-time. Sin tutoriales de YouTube.
 
-![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-0a0a0a?style=flat-square&logo=astro&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=white)
+**Go server** — loop autoritativo sobre WS. El servidor reparte, valida, envía hoyos privados por asiento. 0 cross-leaks probados.
 
-**Backend & Infra**
+**Rust → WASM** — evaluador de 7 cartas compilado a WASM. Enumeración exacta en flop/turn/river, MC 30k trials preflop. Sin round-trips al servidor.
 
-![Firebase](https://img.shields.io/badge/Firebase-0a0a0a?style=flat-square&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-0a0a0a?style=flat-square&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-0a0a0a?style=flat-square&logo=vercel&logoColor=white)
+**Economía server-auth** — wallet via Firebase Admin SDK en Route Handler. Clientes no mienten sobre coins ni XP.
 
-**Real-time**
+**Voz P2P** — WebRTC full-mesh, Opus 24 kbps vía SDP munging, TURN fallback. Aguanta 10 peers en redes móviles.
 
-![WebSockets](https://img.shields.io/badge/WebSockets-0a0a0a?style=flat-square&logo=socketdotio&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-0a0a0a?style=flat-square&logo=webrtc&logoColor=white)
-![WebAssembly](https://img.shields.io/badge/WASM-0a0a0a?style=flat-square&logo=webassembly&logoColor=white)
-
-**Diseño & SEO**
-
-![Figma](https://img.shields.io/badge/Figma-0a0a0a?style=flat-square&logo=figma&logoColor=white)
-![SEO](https://img.shields.io/badge/SEO-0a0a0a?style=flat-square&logo=googlesearchconsole&logoColor=white)
-![GEO](https://img.shields.io/badge/GEO_AI_Search-0a0a0a?style=flat-square&logo=anthropic&logoColor=white)
-
-<br/><br/>
-
----
+</td>
+<td align="center" width="220">
 
 <br/>
 
-## Proyecto destacado — Noir
+![Go](https://skillicons.dev/icons?i=go&theme=dark)
+![Rust](https://skillicons.dev/icons?i=rust&theme=dark)
 
-> Plataforma multi-jugador de Texas Hold'em. No un tutorial — el proyecto más difícil que pude imaginar.
+<br/>
 
-| Capa | Qué hace |
-|---|---|
-| **Go server** | Loop de juego autoritativo sobre WebSockets. El servidor reparte, valida cada acción, envía estado público + hoyos privados por asiento. Anti-trampa by design. |
-| **Rust → WASM** | Evaluador de 7 cartas compilado a WASM. Enumeración exacta en flop/turn/river, Monte-Carlo (30k trials) preflop. Corre en el navegador, sin round-trips. |
-| **Economía** | Wallet server-authoritative via Firebase Admin SDK. Los clientes no pueden mintear monedas ni inflar XP. |
-| **Voz** | Canal WebRTC P2P full-mesh. Opus capeado a 24 kbps vía SDP munging para sobrevivir redes móviles con 6-10 peers. |
-| **Privacidad** | Hoyos aislados estructuralmente — frames WS privados por asiento, nunca en el doc público. Probado: 0 cross-leaks. |
+![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)
+![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark)
 
-![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=flat-square&logo=nextdotjs&logoColor=white)
-![Go](https://img.shields.io/badge/Go-0a0a0a?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-0a0a0a?style=flat-square&logo=rust&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-0a0a0a?style=flat-square&logo=webrtc&logoColor=white)
-![WASM](https://img.shields.io/badge/WASM-0a0a0a?style=flat-square&logo=webassembly&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-0a0a0a?style=flat-square&logo=firebase&logoColor=white)
+<br/><br/>
+
+`WebRTC` · `WASM` · `WS`
+
+</td>
+</tr>
+</table>
 
 <br/><br/>
 
@@ -103,13 +122,17 @@ Construyo productos de extremo a extremo — desde interfaces pixel-perfect hast
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MrxHuaang&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=2a2a2a&title_color=ffffff&text_color=888888&icon_color=ffffff&hide_border=false&count_private=true&rank_icon=github"/>
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrxHuaang&layout=compact&theme=dark&bg_color=0d0d0d&border_color=2a2a2a&title_color=ffffff&text_color=888888&langs_count=6"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MrxHuaang&theme=github_dark" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MrxHuaang&theme=github_dark" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MrxHuaang&theme=github_dark" height="165"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=MrxHuaang&theme=dark&background=0d0d0d&border=2a2a2a&ring=ffffff&fire=ffffff&currStreakLabel=888888&sideLabels=888888&dates=555555"/>
+<img src="https://streak-stats.demolab.com?user=MrxHuaang&theme=dark&background=0d1117&border=30363d&ring=ffffff&fire=ffffff&currStreakLabel=888888&sideLabels=888888&dates=555555&sideNums=ffffff&currStreakNum=ffffff"/>
+
+<br/><br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MrxHuaang&theme=onestar&no-frame=true&row=1&column=7&margin-w=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -121,14 +144,18 @@ Construyo productos de extremo a extremo — desde interfaces pixel-perfect hast
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MrxHuaang)
+[![Instagram](https://img.shields.io/badge/@juan.ordonezz-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/juan.ordonezz)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=white)](mailto:web.admin@scout.org.co)
+[![Email](https://img.shields.io/badge/web.admin@scout.org.co-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:web.admin@scout.org.co)
 
-</div>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:0a0a0a&height=2&section=footer" width="100%"/>
 
 <br/>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1c,100:0a0a0a&height=120&section=footer" width="100%"/>
+<sub>Construyendo cosas que importan, un commit a la vez.</sub>
+
+<br/><br/>
+
 </div>
