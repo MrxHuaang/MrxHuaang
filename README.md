@@ -84,11 +84,11 @@ Plataforma multi-jugador trustless, real-time y dise&ntilde;ada alrededor de una
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrxHuaang&bg_color=050505&color=a3a3a3&title_color=ffffff&line=ffffff&point=737373&area=true&area_color=ffffff&hide_border=true&custom_title=Actividad" width="100%" alt="GitHub activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrxHuaang&bg_color=050505&color=a3a3a3&title_color=ffffff&line=ffffff&point=737373&area=true&area_color=ffffff&hide_border=true&custom_title=Actividad&cache_bust=2026-06-09" width="100%" alt="GitHub activity graph" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=MrxHuaang&theme=dark&background=050505&border=262626&ring=ffffff&fire=ffffff&currStreakLabel=a3a3a3&sideLabels=a3a3a3&dates=737373&sideNums=ffffff&currStreakNum=ffffff" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=MrxHuaang&theme=dark&background=050505&border=262626&ring=ffffff&fire=ffffff&currStreakLabel=a3a3a3&sideLabels=a3a3a3&dates=737373&sideNums=ffffff&currStreakNum=ffffff&cache_bust=2026-06-09" alt="GitHub streak" />
 
 </div>
 
