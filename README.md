@@ -1,110 +1,122 @@
 <div align="center">
 
-<img src="./assets/profile-hero.svg" alt="Juan Ordo&ntilde;ez - CTO @ Hyvento, Software Engineer, Colombia" width="100%" />
+<a href="https://juanordonezdev.hyvento.co/">
+  <img src="./assets/profile-hero.svg" alt="Juan José Pantoja — Desarrollador de Software, CTO en Hyvento. Pasto, Colombia." width="100%" />
+</a>
 
 <br/>
 
-<a href="https://hyvento.co">
-  <img src="https://img.shields.io/badge/Hyvento-050505?style=flat-square&logo=safari&logoColor=white&labelColor=000000" alt="Hyvento" />
-</a>
-<a href="https://github.com/MrxHuaang?tab=followers">
-  <img src="https://img.shields.io/github/followers/MrxHuaang?style=flat-square&color=050505&labelColor=000000&label=followers" alt="GitHub followers" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=MrxHuaang&style=flat-square&color=050505&label=profile+views" alt="Profile views" />
+<a href="https://juanordonezdev.hyvento.co/"><img src="https://img.shields.io/badge/Ver_portafolio-f4b93c?style=for-the-badge&logoColor=0d0e1c&labelColor=f4b93c&color=f4b93c" alt="Ver portafolio" /></a> <a href="https://hyvento.co"><img src="https://img.shields.io/badge/Hyvento-070709?style=for-the-badge&logo=safari&logoColor=f4b93c" alt="Hyvento" /></a> <a href="https://instagram.com/juan.ordonezz"><img src="https://img.shields.io/badge/@juan.ordonezz-070709?style=for-the-badge&logo=instagram&logoColor=f4b93c" alt="Instagram" /></a> <img src="https://komarev.com/ghpvc/?username=MrxHuaang&style=for-the-badge&color=070709&label=VISITAS" alt="Visitas al perfil" />
 
 </div>
 
 <br/>
 
-| Systems | Leadership | Builder |
-| --- | --- | --- |
-| **End-to-end systems**<br/>Desde el pixel hasta el servidor autoritativo. Construyo productos donde la interfaz, el runtime y la infraestructura hablan el mismo idioma. | **CTO @ Hyvento**<br/>Dise&ntilde;o arquitectura, tomo decisiones de fondo y convierto ideas en sistemas mantenibles, medibles y reales. | **Software engineer**<br/>Enfocado en producto, sistemas realtime y arquitectura web moderna con criterio de performance, escalabilidad y experiencia de usuario. |
+```text
+// ahora mismo
+cto        → Hyvento: arquitectura, decisiones de fondo y equipo
+construyo  → Lumbre, una cabaña virtual multijugador para equipos remotos
+estudio    → Ingeniería de Software
+me importa → sistemas realtime con autoridad clara y UI que se siente bien
+```
 
-<br/>
-
-## Stack, por capas
+## ✦ Proyecto destacado
 
 <div align="center">
 
-**Product / UI**
+<a href="https://github.com/MrxHuaang/lumbre">
+  <img src="./assets/lumbre-jardin.webp" alt="Lumbre: el jardín de la cabaña de noche" width="100%" />
+</a>
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,angular,tailwind,figma&theme=dark&perline=5" alt="Next.js, React, Angular, Tailwind CSS, Figma" />
-
-**Runtime**
-
-<img src="https://skillicons.dev/icons?i=ts,nodejs,go,rust,python&theme=dark&perline=5" alt="TypeScript, Node.js, Go, Rust, Python" />
-
-**Backend / Data / Infra**
-
-<img src="https://skillicons.dev/icons?i=express,mongodb,firebase,supabase,postgres,docker,vercel&theme=dark&perline=7" alt="Express, MongoDB, Firebase, Supabase, PostgreSQL, Docker, Vercel" />
-
-`WebSockets` &nbsp; `WebRTC` &nbsp; `WebAssembly` &nbsp; `SEO/GEO` &nbsp; `server-authoritative loops`
+<table>
+  <tr>
+    <td width="33%"><img src="./assets/lumbre-cafeteria.webp" alt="Lumbre: cafetería" /></td>
+    <td width="33%"><img src="./assets/lumbre-casino.webp" alt="Lumbre: casino" /></td>
+    <td width="33%"><img src="./assets/lumbre-club.webp" alt="Lumbre: club" /></td>
+  </tr>
+</table>
 
 </div>
 
+### Lumbre · la cabaña virtual de tu equipo
+
+Oficina virtual isométrica en pixel-art: caminas por una cabaña, te acercas a alguien y empiezas a hablar. Cada persona tiene su chibi, su oficina y un PC con su propio sistema operativo.
+
+- **Servidor autoritativo (Colyseus):** el cliente anticipa, el servidor decide. Movimiento, paredes, asientos, portales y oficinas cerradas se validan con el mismo mundo y el mismo A* que usa el navegador.
+- **Voz y video por proximidad (LiveKit):** suscripción selectiva en el SFU. Solo recibes las pistas de quien tienes cerca, y una sala cerrada aísla el audio.
+- **Arte 100% procedural:** motor pixel propio con cajas isométricas, sombreado por cara, luces de noche y letreros de neón letra por letra. Cero assets dibujados a mano.
+- **Economía con libro contable:** puntos por presencia y reuniones, tienda, cafetería y un casino con azar criptográfico y límite diario, todo en transacciones Postgres.
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,postgres,prisma&theme=dark" alt="Stack de Lumbre" />
+
+[**Ver repositorio →**](https://github.com/MrxHuaang/lumbre)
+
 <br/>
 
-## Proyecto destacado
+## ✦ También construí
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MrxHuaang/Noir-Poker"><img src="./assets/noir-poker-preview.png" alt="Noir Poker" /></a>
+      <br/><br/>
+      <b><a href="https://github.com/MrxHuaang/Noir-Poker">Noir Poker</a></b><br/>
+      <sub>Texas Hold'em multi-dispositivo: la pantalla grande es la mesa y cada teléfono ve sus cartas. Motor de equity en Rust → WASM, backend autoritativo serverless y voz WebRTC.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <b>Zephr</b><br/>
+      <sub>Búsqueda y seguimiento de Airworthiness Directives de 7 autoridades de aviación civil en un solo espacio de trabajo. Next.js, Supabase con RLS, Stripe y scrapers en Python.</sub>
+      <br/><br/>
+      <b><a href="https://github.com/MrxHuaang/sortea-">Sortea</a></b><br/>
+      <sub>Plataforma de rifas: venta de números, control de compradores y el ganador revelado en vivo.</sub>
+      <br/><br/>
+      <b><a href="https://github.com/MrxHuaang/LinternaAnuncios">Linterna</a></b><br/>
+      <sub>Clicker incremental: toca, gana monedas y mejora la linterna.</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## ✦ Stack, por capas
 
 <div align="center">
 
-<a href="https://github.com/MrxHuaang/Noir-Poker">
-  <img src="./assets/noir-poker-preview.png" alt="Noir Poker preview" width="820" />
-</a>
+<sub><code>PRODUCTO / UI</code></sub><br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,angular,tailwind,threejs,figma&theme=dark" alt="Next.js, React, Angular, Tailwind CSS, Three.js, Figma" />
 
-<br/><br/>
+<sub><code>RUNTIME</code></sub><br/>
+<img src="https://skillicons.dev/icons?i=ts,nodejs,go,rust,python&theme=dark" alt="TypeScript, Node.js, Go, Rust, Python" />
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,firebase,go,rust&theme=dark&perline=6" alt="Noir Poker stack" />
+<sub><code>BACKEND · DATOS · INFRA</code></sub><br/>
+<img src="https://skillicons.dev/icons?i=postgres,prisma,supabase,firebase,mongodb,docker,vercel&theme=dark" alt="PostgreSQL, Prisma, Supabase, Firebase, MongoDB, Docker, Vercel" />
+
+<sub><code>WebSockets</code> · <code>WebRTC</code> · <code>WebAssembly</code> · <code>servidores autoritativos</code> · <code>SEO/GEO</code></sub>
 
 </div>
 
-**Noir - Poker Platform**  
-Texas Hold'em multi-dispositivo para mesas presenciales, partidas online y torneos administrados.
-
-Plataforma multi-jugador trustless, real-time y dise&ntilde;ada alrededor de una regla simple: el cliente nunca decide lo que el servidor debe validar.
-
-- **Go server:** loop autoritativo sobre WebSockets. El servidor reparte, valida y env&iacute;a hoyos privados por asiento. 0 cross-leaks probados.
-- **Rust -> WASM:** evaluador de 7 cartas compilado a WebAssembly. Enumeraci&oacute;n exacta en flop/turn/river y MC 30k trials preflop. Sin round-trips al servidor.
-- **Econom&iacute;a server-auth:** wallet v&iacute;a Firebase Admin SDK en Route Handler. Clientes no mienten sobre coins ni XP.
-- **Voz P2P:** WebRTC full-mesh, Opus 24 kbps v&iacute;a SDP munging y TURN fallback. Aguanta 10 peers en redes m&oacute;viles.
-
-[Ver repositorio](https://github.com/MrxHuaang/Noir-Poker)
-
 <br/>
 
-## Forma de trabajar
+## ✦ Forma de trabajar
 
 | 01 | 02 | 03 | 04 |
 | --- | --- | --- | --- |
-| **Primero el modelo**<br/>Reglas, datos y permisos antes de pintar pantallas. | **UI con criterio**<br/>Interfaces limpias, r&aacute;pidas y construidas para uso real. | **Realtime sin humo**<br/>Estado sincronizado, latencia asumida y autoridad clara. | **Producto medible**<br/>Performance, SEO/GEO y arquitectura pensada para crecer. |
+| **Primero el modelo**<br/><sub>Reglas, datos y permisos antes de pintar pantallas.</sub> | **UI con criterio**<br/><sub>Interfaces rápidas, construidas para uso real.</sub> | **Realtime sin humo**<br/><sub>Estado sincronizado, latencia asumida y autoridad clara.</sub> | **Producto medible**<br/><sub>Performance, SEO/GEO y arquitectura que aguanta crecer.</sub> |
 
 <br/>
 
-## Actividad
+## ✦ Actividad
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MrxHuaang&bg_color=050505&color=a3a3a3&title_color=ffffff&line=ffffff&point=737373&area=true&area_color=ffffff&hide_border=true&custom_title=Actividad&cache_bust=2026-06-09" width="100%" alt="GitHub activity graph" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=MrxHuaang&theme=dark&background=050505&border=262626&ring=ffffff&fire=ffffff&currStreakLabel=a3a3a3&sideLabels=a3a3a3&dates=737373&sideNums=ffffff&currStreakNum=ffffff&cache_bust=2026-06-09" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=MrxHuaang&theme=dark&background=070709&border=1f1f24&ring=f4b93c&fire=f4b93c&currStreakLabel=f4b93c&sideLabels=a3a4ac&dates=717178&sideNums=f5f5f6&currStreakNum=f5f5f6&cache_bust=2026-09-27" alt="Racha en GitHub" />
 
 </div>
 
 <br/>
 
 <div align="center">
-
-<a href="https://hyvento.co">
-  <img src="https://img.shields.io/badge/hyvento.co-050505?style=for-the-badge&logo=safari&logoColor=white" alt="hyvento.co" />
+<a href="https://juanordonezdev.hyvento.co/">
+  <img src="./assets/profile-footer.svg" alt="De brasas a estrellas. Construyendo sistemas reales desde Colombia." width="100%" />
 </a>
-<a href="https://instagram.com/juan.ordonezz">
-  <img src="https://img.shields.io/badge/@juan.ordonezz-050505?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-
-<br/><br/>
-
-<img src="./assets/profile-footer.svg" alt="Construyendo sistemas reales desde Colombia" width="100%" />
-
 </div>
