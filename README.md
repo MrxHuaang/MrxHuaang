@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://juanordonezdev.hyvento.co/">
-  <img src="./assets/hero-brasas.svg" alt="Juan José Pantoja — Desarrollador de Software, CTO en Hyvento. Pasto, Colombia." width="100%" />
+  <img src="./assets/hero-pereira.svg" alt="Juan José Pantoja — Desarrollador de Software, CTO en Hyvento. Pereira, Colombia." width="100%" />
 </a>
 
 <br/>
@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="./assets/ahora-mismo.svg" alt="Ahora mismo: CTO en Hyvento; construyo Lumbre, una cabaña virtual multijugador; estudio Ingeniería de Software; me importan los sistemas realtime con autoridad clara y la UI que se siente bien." width="100%" />
+<img src="./assets/ahora-pereira.svg" alt="Ahora mismo: CTO en Hyvento; construyo Lumbre, una cabaña virtual multijugador; estudio Ingeniería de Software; me importan los sistemas realtime con autoridad clara y la UI que se siente bien." width="100%" />
 
 ## ✦ Proyecto destacado
 
@@ -111,6 +111,6 @@ Oficina virtual isométrica en pixel-art: caminas por una cabaña, te acercas a 
 
 <div align="center">
 <a href="https://juanordonezdev.hyvento.co/">
-  <img src="./assets/footer-brasas.svg" alt="De brasas a estrellas. Construyendo sistemas reales desde Colombia." width="100%" />
+  <img src="./assets/footer-pereira.svg" alt="De brasas a estrellas. Construyendo sistemas reales desde Colombia." width="100%" />
 </a>
 </div>
