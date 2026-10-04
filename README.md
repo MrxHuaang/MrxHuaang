@@ -14,7 +14,7 @@
 
 <img src="./assets/ahora-pereira.svg" alt="Ahora mismo: CTO en Hyvento; construyo Lumbre, una cabaña virtual multijugador; estudio Ingeniería de Software; me importan los sistemas realtime con autoridad clara y la UI que se siente bien." width="100%" />
 
-## ✦ Proyecto destacado
+## ✦ Proyectos destacados
 
 <div align="center">
 
@@ -47,23 +47,49 @@ Oficina virtual isométrica en pixel-art: caminas por una cabaña, te acercas a 
 
 <br/>
 
+<div align="center">
+
+<a href="https://github.com/MrxHuaang/Noir-Poker">
+  <img src="./assets/noir-hero.webp" alt="Noir Poker: portada animada con la mesa en vivo, una mano de Texas Hold'em en pixel art 3D" width="100%" />
+</a>
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/noir-personajes.webp" alt="Noir Poker: selector de personaje, ¿quién eres esta noche?" /></td>
+    <td width="50%"><img src="./assets/noir-modos.webp" alt="Noir Poker: modos de juego, partida abierta y torneo" /></td>
+  </tr>
+</table>
+
+</div>
+
+### Noir Poker · club de póker, 1929
+
+Texas Hold'em entre amigos, cada uno desde su teléfono o computador, en una sala de juego clandestina en pixel art 3D. La información vive en el mundo y no en paneles: las sillas son cartas con agujeros de bala, el bote va escrito con tiza sobre el paño y el reloj del turno es un cigarro en el cenicero.
+
+- **Backend autoritativo serverless:** cada jugada es un `POST` que corre una transacción de Firestore. El mazo vive en el servidor y cada jugador lee solo sus cartas. Sin servidor aparte que mantener encendido.
+- **Motor de juego puro en TypeScript:** apuestas, side pots, run it twice, straddle, bomb pots y torneos con ciegas por niveles. Probado con fuzz de conservación de fichas.
+- **Escena three.js:** mesa, puerta y 12 personajes en pixel art 3D, alimentada por snapshots del estado; anima solo la diferencia entre manos.
+- **Voz P2P en la mesa:** WebRTC entre teléfonos con señalización por Supabase Realtime y TURN opcional.
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,threejs,firebase,supabase,tailwind&theme=dark" alt="Stack de Noir Poker" />
+
+[**Ver repositorio →**](https://github.com/MrxHuaang/Noir-Poker)
+
+<br/>
+
 ## ✦ También construí
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/MrxHuaang/Noir-Poker"><img src="./assets/noir-poker-preview.png" alt="Noir Poker" /></a>
-      <br/><br/>
-      <b><a href="https://github.com/MrxHuaang/Noir-Poker">Noir Poker</a></b><br/>
-      <sub>Texas Hold'em multi-dispositivo: la pantalla grande es la mesa y cada teléfono ve sus cartas. Motor de equity en Rust → WASM, backend autoritativo serverless y voz WebRTC.</sub>
-    </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <b>Zephr</b><br/>
       <sub>Búsqueda y seguimiento de Airworthiness Directives de 7 autoridades de aviación civil en un solo espacio de trabajo. Next.js, Supabase con RLS, Stripe y scrapers en Python.</sub>
-      <br/><br/>
+    </td>
+    <td width="33%" valign="top">
       <b><a href="https://github.com/MrxHuaang/sortea-">Sortea</a></b><br/>
       <sub>Plataforma de rifas: venta de números, control de compradores y el ganador revelado en vivo.</sub>
-      <br/><br/>
+    </td>
+    <td width="33%" valign="top">
       <b><a href="https://github.com/MrxHuaang/LinternaAnuncios">Linterna</a></b><br/>
       <sub>Clicker incremental: toca, gana monedas y mejora la linterna.</sub>
     </td>
