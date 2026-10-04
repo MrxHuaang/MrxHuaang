@@ -19,7 +19,7 @@
 <div align="center">
 
 <a href="https://github.com/MrxHuaang/lumbre">
-  <img src="./assets/lumbre-caminando.gif" alt="Lumbre: un personaje caminando por el jardín de noche con otra persona conectada en el muelle" width="100%" />
+  <img src="./assets/lumbre-hero.webp" alt="Lumbre: un personaje caminando por el sendero del jardín de noche mientras otras dos personas conectadas esperan junto a la banca" width="100%" />
 </a>
 
 <table>
