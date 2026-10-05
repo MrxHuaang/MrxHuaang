@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://juanordonezdev.hyvento.co/">
-  <img src="./assets/hero-pereira.svg" alt="Juan José Pantoja — Desarrollador de Software, CTO en Hyvento. Pereira, Colombia." width="100%" />
+  <img src="./assets/hero-pereira.svg" alt="Juan José Ordoñez — Desarrollador de Software, CTO en Hyvento. Pereira, Colombia." width="100%" />
 </a>
 
 <br/>
